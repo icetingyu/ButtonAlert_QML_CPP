@@ -9,17 +9,42 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/main.qml" line="31"/>
-        <source>Click me!</source>
+        <location filename="../assets/main.qml" line="35"/>
+        <source>Click signal in C++ and Show Dialog in C++</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/main.qml" line="42"/>
+        <location filename="../assets/main.qml" line="40"/>
+        <source>Pure C++</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../assets/main.qml" line="50"/>
+        <source>Click Button in QML and Show Dialog in C++</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../assets/main.qml" line="54"/>
+        <source>BtnQML &amp; Dialog C++</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../assets/main.qml" line="68"/>
+        <source>Click Button in QML and Show Dialog in QML</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../assets/main.qml" line="72"/>
+        <source>Pure QML</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../assets/main.qml" line="83"/>
         <source>Dialog Title</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../assets/main.qml" line="43"/>
+        <location filename="../assets/main.qml" line="84"/>
         <source>Dialog Body</source>
         <translation type="unfinished"></translation>
     </message>
